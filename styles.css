@@ -1,0 +1,116 @@
+.Background-Page {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+
+.Sick-Photo {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Button {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 40px;
+}
+
+.button {
+    width: 250px;
+    height: 100px;
+    color: white;
+    font-size: 40px;
+    background-color:#FF1E56;
+    text-align: center;
+}
+
+.Project-Description {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Tier-List {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+}
+
+.Tier-List-Box {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    height: 300px;
+}
+
+.Characters-Events {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Characters {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(170, 170, 170);
+    flex: 1;
+    margin: 20px;
+}
+
+.Events {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    flex: 1;
+    margin: 20px;
+}
+
+.Links {
+    display: flex;
+    flex: 1;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.Small-Button {
+    display: flex;
+    flex: 1;
+    height: 50px;
+    margin: 5px;
+    color: white;
+    font-size: 40px;
+    background-color: #FF1E56;
+    text-align: center;
+}
+
+
+.Color-1 {
+    color: black;
+}
+
+.Color-2 {
+    color: #FF1E56;
+}
+
+.Color-3 {
+    color: white;
+}
+
+.Color-4 {
+    color: #FFAC41;
+}
+
+.Color-5 {
+    color: #323232;
+}
