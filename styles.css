@@ -18,6 +18,12 @@
     justify-content: center;
 }
 
+.Button-and-Description {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
 .Button {
     display: flex;
     flex-direction: row;
@@ -36,8 +42,10 @@
 
 .Project-Description {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
+    font-size: x-large;
+    text-align: center;
 }
 
 .Tier-List {
