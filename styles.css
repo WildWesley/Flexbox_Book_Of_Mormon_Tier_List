@@ -5,6 +5,10 @@
     justify-content: center;
 }
 
+.Full-Drop {
+    height: 100vh;
+}
+
 .Title {
     display: flex;
     flex-direction: column;
